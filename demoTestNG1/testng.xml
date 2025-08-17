@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  
+  <groups>
+            <run>
+               <!-- <include name="smoke"/> -->
+                <include name="regression"/>
+            </run>
+   </groups>
+<!--<parameter name="browserName" value="Chrome"/>
+    <parameter name="url" value="http://secure.smartbearsoftware.com/samples/TestComplete12/WebOrders/Login.aspx"/> -->
+    
+    <classes>
+      <!--  <class name="com.testNGdemo.Launch"/>
+            <class name="com.testNGdemo.Annotation"/>  
+			<class name="com.testNGdemo.TestWebOrder"/> 
+			<class name="com.testNGdemo.ParameterTest"/> 
+			<class name="com.testNGdemo.GroupExample"/>
+			<class name="com.testNGdemo.DependsOnGroup"/> -->
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
