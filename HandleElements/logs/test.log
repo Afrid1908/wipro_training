@@ -1,0 +1,28 @@
+2025-08-19 14:58:38 INFO  LoggerExample:20 - Starting Iframe test...
+2025-08-19 14:58:55 INFO  LoggerExample:28 - Switched to iframe
+2025-08-19 14:58:55 INFO  LoggerExample:33 - Typed text inside frame
+2025-08-19 14:58:55 INFO  LoggerExample:36 - Assertion Passed
+2025-08-19 14:58:55 INFO  LoggerExample:39 - Switched back to main content
+2025-08-19 15:01:31 INFO  LoggerExample:21 - Starting Iframe test...
+2025-08-19 15:01:39 INFO  LoggerExample:29 - Switched to iframe
+2025-08-19 15:01:39 INFO  LoggerExample:34 - Typed text inside frame
+2025-08-19 15:01:39 INFO  LoggerExample:37 - Assertion Passed
+2025-08-19 15:01:39 INFO  LoggerExample:40 - Switched back to main content
+2025-08-19 15:01:39 INFO  LoggerExample:47 - Closing browser
+2025-08-19 15:02:15 INFO  LoggerExample:21 - Starting Iframe test...
+2025-08-19 15:02:25 INFO  LoggerExample:29 - Switched to iframe
+2025-08-19 15:02:25 INFO  LoggerExample:34 - Typed text inside frame
+2025-08-19 15:02:25 INFO  LoggerExample:37 - Assertion Passed
+2025-08-19 15:02:25 INFO  LoggerExample:40 - Switched back to main content
+2025-08-19 15:04:09 INFO  LoggerExample:21 - Starting Iframe test...
+2025-08-19 15:04:24 INFO  LoggerExample:29 - Switched to iframe
+2025-08-19 15:04:24 INFO  LoggerExample:34 - Typed text inside frame
+2025-08-19 15:04:24 INFO  LoggerExample:37 - Assertion Passed
+2025-08-19 15:04:24 INFO  LoggerExample:40 - Switched back to main content
+2025-08-19 18:57:57 INFO  JDBCUtils:38 - Connection successful
+2025-08-19 19:15:18 INFO  JDBCUtils:36 - Connection successful
+2025-08-19 19:17:35 INFO  JDBCUtils:36 - Connection successful
+2025-08-19 19:21:10 INFO  JDBCUtils:31 - Connection successful
+2025-08-20 09:46:00 INFO  LoggerExample:23 - Starting Iframe test...
+2025-08-20 09:46:09 INFO  LoggerExample:31 - Switched to iframe
+2025-08-20 09:46:09 INFO  LoggerExample:48 - Closing browser
