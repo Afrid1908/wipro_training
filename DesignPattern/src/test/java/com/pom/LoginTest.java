@@ -1,10 +1,7 @@
-package com.tests;
+package com.pom;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import com.base.BaseTest;
-import com.pages.LoginPage;
 
 public class LoginTest extends BaseTest{
 	@Test

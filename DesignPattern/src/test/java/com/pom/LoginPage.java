@@ -1,11 +1,11 @@
-package com.pages;
+package com.pom;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 
 public class LoginPage {
-	  private WebDriver driver;
+	 private WebDriver driver;
 
 	    // Locators (confirm via Inspect)
 	    private By usernameField = By.id("ctl00_MainContent_username");
